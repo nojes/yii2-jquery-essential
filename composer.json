@@ -34,7 +34,7 @@
         "bower-asset/jquery-cookie": "*",
         "bower-asset/jquery.easing": "*",
         "bower-asset/jquery-mousewheel": "*",
-        "bower-asset/jquery-form": "*",
+        "bower-asset/jquery-form": "<4.0.0",
         "bower-asset/jquery.scrollTo": "*"
     },
     "autoload": {
