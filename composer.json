@@ -9,7 +9,6 @@
         "jQuery Essential Plugins",
         "jQuery Cookie",
         "jQuery MouseWheel",
-        "jQuery Scroll To",
         "jQuery Easing"
     ],
     "homepage": "https://github.com/uran1980/yii2-jquery-essential",
